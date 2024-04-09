@@ -1,5 +1,8 @@
 # Assignment-1-IMAD
 Essay explaining my mobile application
+
+
+
 This is my mobile application called My History App. It gives you the age and name of an celebrity who died at the age the user entered. 
 The user will be instructed to enter their age and when the enter enters the age between 20 and 22 it will display that Xxxtentacion died at that specific age.It involves finding views by their ids,setting click listeners, and handling age-related logic to display results in a TextView. When the user clicks on the button that says “Generate history” it will check the age the user inputted and based on the age ranges of 20<=..<=22 it will display xxxtentacion died at that age, 23<=..<=25 it will display unknown there is no historical figure for that age,26<=..<=28 it will display Angues Cloud died at that age , 29<=..<=31 it will display Unknown there is no historical figure for that age, 32<=..<=34 it will display Tumi Tladi died at that age , 35<=..<=37,it will display Unknown there is no historical figure for that age, 38<=..<=40 it will display Ricky Rick died at that age, 41<=..<=43 it will display Zahara died at that age, 44<=..<=46 it will display Unknown there is no historical figure for that age,47<=..<=49 it will display Michael Jackson died at that age,50<=..<=61 it will display unknown there is no historical figure for that age,62<=..<=64 it will display Mbongeni Ngema died at that age, 65<=..<=100, it will display unknown there is no historical figure for that age. If the user entered a number below 20 and greater than 100 it will display an error message.
 
